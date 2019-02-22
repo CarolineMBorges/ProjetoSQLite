@@ -1,0 +1,1 @@
+Neste projeto são feitos alguns comandos em SQLite
